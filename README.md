@@ -1,4 +1,4 @@
-**I don't use jquery-simplecolorpicker anymore so I won't update this repository. If you have a well maintained fork, I will be happy to promote it here.**
+zd**I don't use jquery-simplecolorpicker anymore so I won't update this repository. If you have a well maintained fork, I will be happy to promote it here.**
 
 # Very simple jQuery color picker
 
